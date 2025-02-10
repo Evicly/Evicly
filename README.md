@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm Evicly.<br>I am a Developer and Cybersecurity Student</p>
+<p align="left">Hey, I'm Evicly.<br>I am a Developer and Cybersecurity Student.<br>Most of my projects are private.</p>
 
 ###
 
