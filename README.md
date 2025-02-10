@@ -1,4 +1,4 @@
-<h1 align="center">-[+ { Evicly } + ]-</h1>
+<h1 align="center">Evicly</h1>
 
 ###
 
