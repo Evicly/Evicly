@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Evicly/Evicly/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Socials</h2>
 
 ###
