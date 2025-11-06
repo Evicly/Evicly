@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm Evicly.<br>I am a Developer and Cybersecurity Student.<br>Most of my projects are private.</p>
+<p align="left">Hey, I'm Evicly.<br>I am a Fullstack Web Developer.<br>Most of my projects are private.</p>
 
 ###
 
@@ -17,12 +17,11 @@
   <a href="https://youtube.com/@Evicly" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
 
 ###
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages/Libraries</h2>
 
 ###
 
